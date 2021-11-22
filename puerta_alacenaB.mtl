@@ -264,6 +264,13 @@ Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 map_Kd cafe.png
 Ni 1.00
+newmtl puerta_alacenaB_puerta_alacenaB_lambert20SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera_mueble.jpg
+Ni 1.00
 newmtl tv
 illum 4
 Kd 0.00 0.00 0.00
